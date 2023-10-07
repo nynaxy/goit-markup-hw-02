@@ -2,7 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #2E2F42;
 }
-.logo {
+.logo-link {
+    text-decoration: none;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
@@ -12,7 +13,7 @@ body {
     text-transform: uppercase;
 
 }
-.logo > .first-span {
+.logo-link > .first-span {
     color:#2E2F42;;
 }
 .main-element {
@@ -53,6 +54,6 @@ body {
 .down {
     background-color: #2e2f42;
 }
-.logo > .second-span {
+.logo-link > .second-span {
     color: #F4F4FD;
 }
