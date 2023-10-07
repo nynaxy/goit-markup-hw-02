@@ -16,6 +16,9 @@ body {
 .logo > .first-span {
     color:#2E2F42;;
 }
+.list {
+    list-style: none;
+}
 .main-element {
     font-size: 16px;
     font-weight: 500;
