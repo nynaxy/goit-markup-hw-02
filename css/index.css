@@ -6,9 +6,10 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
-    line-height: 1,(6);
-    letter-spacing: 0,03em;
+    line-height: 1,17;
+    letter-spacing: 0.03em;
     color: #4D5AE5;
+    text-transform: uppercase;
 
 }
 .logo > .first-span {
@@ -48,6 +49,9 @@ body {
     font-size: 16px;
     line-height: 1,5;
 
+}
+.down {
+    background-color: #2e2f42;
 }
 .logo > .second-span {
     color: #F4F4FD;
