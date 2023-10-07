@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1,(6);
+    letter-spacing: 0,03em;
+    color: #4D5AE5;
+
+}
+.logo > .first-span {
+    color:#2E2F42;;
+}
+.main-element {
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.contact-data {
+    font-size: 16px;
+    color: #434455;
+}
+.for-clicking {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    color: #4D5AE5;
+    background-color: #E7E9FC;
+    border: 1px solid #E7E9FC;
+    cursor: pointer;
+
+}
+.for-clicking:hover,:focus {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+.option {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1,2;
+
+}
+.description {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1,5;
+
+}
+.logo > .second-span {
+    color: #F4F4FD;
+}
