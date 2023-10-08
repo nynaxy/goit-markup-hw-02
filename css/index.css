@@ -28,7 +28,7 @@ body {
     color: #2e2f42;
     
 }
-.main-element:hover,:focus {
+.main-element:hover,:focus,:active {
     color: #404bbf;
 }
 .contact-data {
