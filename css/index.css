@@ -28,12 +28,11 @@ body {
     color: #2e2f42;
     
 }
-.main-element:hover,:focus {
+.main-element:hover,
+.main-element:focus {
     color: #404bbf;
 }
-.main-element:active {
-    color: #404bbf;
-}
+
 .contact-info {
     font-style: normal;
 }
@@ -44,12 +43,11 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contact-data:hover,:focus {
+.contact-data:hover,
+.contact-data:focus {
     color: #404bbf;
 }
-.contact-data:active {
-    color: #404bbf;
-}
+
 .for-clicking {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
