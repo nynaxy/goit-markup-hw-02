@@ -31,9 +31,18 @@ body {
 .main-element:hover,:focus,:active {
     color: #404bbf;
 }
+.contact-info {
+    font-style: normal;
+}
 .contact-data {
+    text-decoration: none;
     font-size: 16px;
     color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.contact-data:hover,:focus {
+    color: #404bbf;
 }
 .for-clicking {
     font-family: 'Roboto', sans-serif;
