@@ -28,7 +28,10 @@ body {
     color: #2e2f42;
     
 }
-.main-element:hover,:focus,:active {
+.main-element:hover,:focus {
+    color: #404bbf;
+}
+.main-element:active {
     color: #404bbf;
 }
 .contact-info {
@@ -42,6 +45,9 @@ body {
     letter-spacing: 0.02em;
 }
 .contact-data:hover,:focus {
+    color: #404bbf;
+}
+.contact-data:active {
     color: #404bbf;
 }
 .for-clicking {
