@@ -86,7 +86,16 @@ body {
     font-weight: 500;
 }
 .explain {
-    
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.symbols {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 .down {
     background-color: #2e2f42;
