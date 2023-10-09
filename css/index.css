@@ -1,12 +1,10 @@
 :root {
-
 }
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
-
 .logo {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
@@ -17,16 +15,13 @@ body {
     color: #4D5AE5;
     text-transform: uppercase;
 }
-
 .logo>.first-span {
     color: #2E2F42;
     ;
 }
-
 .list {
     list-style: none;
 }
-
 .main-element {
     text-decoration: none;
     font-size: 16px;
@@ -36,16 +31,13 @@ body {
     color: #2e2f42;
 
 }
-
 .main-element:hover,
 .main-element:focus {
     color: #404bbf;
 }
-
 .contact-info {
     font-style: normal;
 }
-
 .contact-data {
     text-decoration: none;
     font-size: 16px;
@@ -83,10 +75,22 @@ body {
 .action:focus {
     background-color: #404BBF;
 }
+.header2 {
+
+}
+.values {
+    color: #2E2F42;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    font-weight: 500;
+}
+.explain {
+    
+}
 .down {
     background-color: #2e2f42;
 }
-
 .logo>.second-span {
     color: #F4F4FD;
 }
