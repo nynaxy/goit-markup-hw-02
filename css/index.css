@@ -1,4 +1,13 @@
 :root {
+    --background-color: #ffffff;
+    --brand-color: #4d5ae5;
+    --default-header-color: #2e2f42;
+    --default-footer-color: #f4f4fd;
+    --default-button-text: #4d5ae5;
+    --default-button-background: #f4f4fd;
+    --link-hoover: #404bbf;
+    --text-color: #434455;
+
 }
 body {
     font-family: 'Roboto', sans-serif;
