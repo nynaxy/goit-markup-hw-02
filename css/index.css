@@ -106,15 +106,35 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+}
+.pals {
+    background-color: var(--default-button-background);
 }
 .team {
     color: #2e2f42;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     text-align: center;
-
+    text-transform: capitalize;
+}
+.name {
+    color: var(--default-header-color);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.occupation {
+    color: var(--text-color);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 .down {
     background-color: #2e2f42;
