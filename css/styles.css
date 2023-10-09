@@ -112,7 +112,7 @@ body {
 }
 
 .pals {
-    background-color: var(--default-button-background);
+    background-color: var(--color-CLOUD)
 }
 
 .team {
@@ -130,7 +130,7 @@ body {
 }
 
 .name {
-    color: var(--default-header-color);
+    color: var(--color-NAVY_BLUE);
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
