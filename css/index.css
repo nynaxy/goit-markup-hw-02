@@ -117,6 +117,9 @@ body {
     text-align: center;
     text-transform: capitalize;
 }
+.face {
+    background-color: #FFFFFF;
+}
 .name {
     color: var(--default-header-color);
     font-size: 20px;
