@@ -1,5 +1,5 @@
 :root {
-    
+
 }
 body {
     font-family: 'Roboto', sans-serif;
@@ -53,7 +53,11 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.hi {
+.contact-data:hover,
+.contact-data:focus {
+    color: #404bbf;
+}
+.hii {
     background-color: #2e2f42;
 }
 .intro {
@@ -65,9 +69,19 @@ body {
     text-align: center;
 
 }
-.contact-data:hover,
-.contact-data:focus {
-    color: #404bbf;
+.action {
+    color:#FFFFFF;
+    background-color: #4D5AE5;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
+    cursor: pointer;
+}
+.action:hover,
+.action:focus {
+    background-color: #404BBF;
 }
 .down {
     background-color: #2e2f42;
